@@ -1,2 +1,2 @@
 # BlockParty
-A web3 social network
+What's going on near me?
